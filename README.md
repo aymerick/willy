@@ -14,4 +14,4 @@ $ vagrant destroy
 
 ## Provision only chef stuff
 
-$ vagrant provision --provision-with chef
+$ vagrant provision --provision-with chef_solo
