@@ -15,7 +15,7 @@ $ exit
 $ vagrant destroy
 ```
 
-## Provision only chef stuff
+## To provision chef stuff only
 
 ```
 $ vagrant provision --provision-with chef_solo
